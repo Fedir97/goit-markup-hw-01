@@ -30,7 +30,7 @@
     </header>
     <section>
         <h1>Эффективные решения<br />для вашего бизнеса</h1>
-        <button type="class">Заказать услуги</button>
+        <button type="button">Заказать услуги</button>
     </section>
     <main>
         <section>
