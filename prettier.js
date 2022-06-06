@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
     <meta charset="UTF-8">
@@ -12,8 +12,7 @@
 
     <header>
         <nav>
-            <a href="">
-                <img src="./image/logo.jpg" alt="logo" width=""/>
+            <a href="">WebStudio
             </a>
             <ul>
                 <li><a href="">Студия</a></li>
@@ -39,21 +38,21 @@
             <ul>
                 <li>
                     <h2>Внимание к деталям</h2>
-                    <p>Идейные соображения,а также начало повседневной работы по формированию позиции.</p>
+                    <p>Идейные соображения, а также<br />начало повседневной работы по<br />формированию позиции.</p>
                 </li>
                 <li>
                     <h2>Пунктуальность</h2>
-                    <p>Задача организации,в особенности же рамки и место обучения кадров влечет за собой.
+                    <p>Задача организации, в особенности<br />же рамки и место обучения кадров<br />влечет за собой.
                     </p>
                 </li>
                 <li>
                     <h2>Планирование</h2>
-                    <p>Равным образом консультация с широким активом в значительной степени обуславливает.
+                    <p>Равным образом консультация с<br />широким активом в значительной<br />степени обуславливает.
                     </p>
                 </li>
                 <li>
                     <h2>Современные технологии</h2>
-                    <p>Значимость этих проблем настолько очевидна, что реализация плановых заданий.</p>
+                    <p>Значимость этих проблем настолько<br />очевидна, что реализация плановых<br />заданий.</p>
                 </li>
             </ul>
         </section>
@@ -70,19 +69,19 @@
     <section>
         <h2>Наша команда</h2>
         <ul>
-            <li><img src="./image/img (2).jpg" alt="Product Designer" width="" />
+            <li><img src="./image/two.jpg" alt="Игорь Демьяненко" width="" />
                 <h3>Игорь Демьяненко</h3>
                 <p lang="en">Product Designer</p>
             </li>
-            <li><img src="./image/img (3).jpg" alt="Frotend Developer" width="" />
+            <li><img src="./image/three.jpg" alt="Ольга Репина" width="" />
                 <h3>Ольга Репина</h3>
                 <p lang="en">Frontend Developer</p>
             </li>
-            <li><img src="./image/img (4).jpg" alt="Marketing" width="" />
+            <li><img src="./image/four.jpg" alt="Николай Тарасов" width="" />
                 <h3>Николай Тарасов</h3>
                 <p lang="en">Marketing</p>
             </li>
-            <li><img src="./image/img (5).jpg" alt="UI Designer" width="" />
+            <li><img src="./image/five.jpg" alt="Михаил Ермаков" width="" />
                 <h3>Михаил Ермаков</h3>
                 <p lang="en">UI Designer</p>
             </li>
@@ -91,11 +90,7 @@
     </section>
     <footer>
         <address>
-            <a href="">
-                <img src="./image/logo.jpg" alt="logo" width="" />
-                
-                
-            </a>
+            <a href="">WebStudio</a>
             <ul>
 
                 <li>
