@@ -60,9 +60,9 @@
     <section>
         <h2>Чем мы занимаемся</h2>
         <ul>
-            <li><img src="./image/first.jpg" alt="" width="370" /></li>
-            <li><img src="./image/second.jpg" alt="" width="370" /></li>
-            <li><img src="./image/third.jpg" alt="" width="370" /></li>
+            <li><img src="./image/first.jpg" alt="work image" width="370" /></li>
+            <li><img src="./image/second.jpg" alt="work image" width="370" /></li>
+            <li><img src="./image/third.jpg" alt="work image" width="370" /></li>
         </ul>
     </section>
 
