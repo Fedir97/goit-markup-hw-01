@@ -60,28 +60,28 @@
     <section>
         <h2>Чем мы занимаемся</h2>
         <ul>
-            <li><img src="./image/first.jpg" alt="" width="" /></li>
-            <li><img src="./image/second.jpg" alt="" width="" /></li>
-            <li><img src="./image/third.jpg" alt="" width="" /></li>
+            <li><img src="./image/first.jpg" alt="" width="370" /></li>
+            <li><img src="./image/second.jpg" alt="" width="370" /></li>
+            <li><img src="./image/third.jpg" alt="" width="370" /></li>
         </ul>
     </section>
 
     <section>
         <h2>Наша команда</h2>
         <ul>
-            <li><img src="./image/two.jpg" alt="Игорь Демьяненко" width="" />
+            <li><img src="./image/two.jpg" alt="Игорь Демьяненко" width="270" />
                 <h3>Игорь Демьяненко</h3>
                 <p lang="en">Product Designer</p>
             </li>
-            <li><img src="./image/three.jpg" alt="Ольга Репина" width="" />
+            <li><img src="./image/three.jpg" alt="Ольга Репина" width="270" />
                 <h3>Ольга Репина</h3>
                 <p lang="en">Frontend Developer</p>
             </li>
-            <li><img src="./image/four.jpg" alt="Николай Тарасов" width="" />
+            <li><img src="./image/four.jpg" alt="Николай Тарасов" width="270" />
                 <h3>Николай Тарасов</h3>
                 <p lang="en">Marketing</p>
             </li>
-            <li><img src="./image/five.jpg" alt="Михаил Ермаков" width="" />
+            <li><img src="./image/five.jpg" alt="Михаил Ермаков" width="270" />
                 <h3>Михаил Ермаков</h3>
                 <p lang="en">UI Designer</p>
             </li>
